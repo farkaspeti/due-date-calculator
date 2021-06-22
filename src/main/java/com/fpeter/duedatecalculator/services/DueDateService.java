@@ -1,5 +1,5 @@
 package com.fpeter.duedatecalculator.services;
 
-public class DueDateService {
+public interface DueDateService {
 
 }
